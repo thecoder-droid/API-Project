@@ -3,7 +3,15 @@ body{
 }
 
 
-li {
+#bb8 {
     color: yellow;
+    text-align: center;
+    font-family: 'Days One', sans-serif;
+}
+
+.border{
     border: solid 3px grey;
+    border-radius: 15px 15px 15px 15px;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
 }
